@@ -27,7 +27,7 @@ Dibuat dengan **PHP + MySQL + Bootstrap** agar mudah digunakan dan di-deploy di 
 
 ## 📂 Struktur Folder
 
-```json
+```php
 project-root/
 ├── add_kamar.php
 ├── edit_kamar.php
@@ -63,6 +63,6 @@ project-root/
    ```
 5. jalankan di browser
 
-```json
+```php
    http://localhost/nama-folder-project
 ```
