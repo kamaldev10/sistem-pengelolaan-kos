@@ -28,7 +28,7 @@ Dibuat dengan **PHP + MySQL + Bootstrap** agar mudah digunakan dan di-deploy di 
 ## 📂 Struktur Folder
 
 ```php
-project-root/
+kos-app/
 ├── add_kamar.php
 ├── edit_kamar.php
 ├── delete_kamar.php
